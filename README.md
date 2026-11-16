@@ -14,10 +14,10 @@ URL directa del JSON para usar en otras herramientas:
 | Sección del JSON | Qué es | Coordenadas |
 |---|---|---|
 | `montevideo` | 50 puntos fijos de la Intendencia de Montevideo | Sí |
-| `rutas_nacionales_mtop` | 127 puntos del MTOP, por ruta y kilómetro | 122 de 127 |
+| `rutas_nacionales_mtop` | 127 puntos del MTOP, por ruta y kilómetro | 125 de 127 (3 no vienen del Geoportal, ver abajo) |
 | `ministerio_interior` | 8 radares del Ministerio del Interior | Sí (interpoladas) |
-| `intendencias_prensa_sin_coordenadas` | 9 esquinas de Canelones y Maldonado publicadas en prensa | No |
-| `openstreetmap_adicionales` | 94 radares de OpenStreetMap que no figuran en los listados oficiales | Sí |
+| `intendencias_prensa_sin_coordenadas` | 9 esquinas de Canelones y Maldonado publicadas en prensa | 6 de 9, aproximadas |
+| `openstreetmap_adicionales` | 89 radares de OpenStreetMap que no figuran en los listados oficiales | Sí |
 
 Cada registro incluye departamento, `lat`, `lon` y `limite` (km/h) cuando existe.
 
@@ -33,6 +33,8 @@ Cada registro incluye departamento, `lat`, `lon` y `limite` (km/h) cuando existe
 ## Cómo se obtuvo cada dato
 
 - Coordenadas del MTOP: capa oficial del Geoportal. El departamento se asignó por ubicación sobre los polígonos departamentales del mismo servicio.
+- Tres puntos del listado del MTOP no están en la capa del Geoportal y su campo `coord` indica el origen: Ruta 26 km 1,976 (interpolada con postes km y confirmada por 2 nodos de OSM), Ruta 21 km 255,710 (nodo de OSM `Carmelo O`) y Ruta 21 km 323,100 (**estimada**, extrapolada 100 m desde el poste km 323). Ruta 3 Young Sur y Young Norte (acceso) siguen sin coordenadas porque el listado no trae km.
+- Esquinas de prensa: 4 tienen el centro de la intersección calculado con OpenStreetMap y 2 un radar de OSM candidato (ver `coord` de cada registro). No son ubicaciones verificadas. Sin coordenadas: Av. Francia entre Maipo y Urales, Wilson Ferreira Aldunate entre Puente Carrasco y Av. de la Playa, y Roosevelt y Agustín Hernández (Pando).
 - Coordenadas del Ministerio del Interior: calculadas a partir de ruta y kilómetro con los postes kilométricos del MTOP (uno cada 1 km).
 - Límites de velocidad de rutas: tomados de OpenStreetMap, no de una fuente oficial por punto.
 - Radares adicionales: etiquetados por colaboradores de OpenStreetMap. No están verificados y pueden incluir equipos retirados, móviles o duplicados por sentido de circulación.

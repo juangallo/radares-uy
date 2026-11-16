@@ -1473,11 +1473,11 @@
    "ruta": "Ruta 21",
    "km": "323,100",
    "referencia": null,
-   "departamento": null,
+   "departamento": "Soriano",
    "limite": null,
-   "lat": null,
-   "lon": null,
-   "coord": null,
+   "lat": -33.51639,
+   "lon": -58.19766,
+   "coord": "ESTIMADA: extrapolada 100 m desde el poste km 323 del MTOP (falta el poste 324); sin respaldo en OpenStreetMap",
    "lim_fuente": null
   },
   {
@@ -1511,9 +1511,9 @@
    "referencia": "Carmelo",
    "departamento": "Colonia",
    "limite": null,
-   "lat": null,
-   "lon": null,
-   "coord": null,
+   "lat": -33.98083,
+   "lon": -58.28919,
+   "coord": "OpenStreetMap (nodo \"Carmelo O\", operator=MTOP); no figura en la capa del Geoportal",
    "lim_fuente": null
   },
   {
@@ -1559,9 +1559,9 @@
    "referencia": "Melo",
    "departamento": "Cerro Largo",
    "limite": null,
-   "lat": null,
-   "lon": null,
-   "coord": null,
+   "lat": -32.37998,
+   "lon": -54.14407,
+   "coord": "Interpolada con postes km 1 y 2 del MTOP; coincide con 2 nodos de OpenStreetMap a 29 y 50 m",
    "lim_fuente": null
   },
   {
@@ -2088,19 +2088,28 @@
    "departamento": "Canelones",
    "ubicacion": "Rambla y Márquez Castro (Ciudad de la Costa)",
    "limite": "60",
-   "nota": "Con más multas del departamento según El Observador (2024)"
+   "nota": "Con más multas del departamento según El Observador (2024)",
+   "lat": -34.83335,
+   "lon": -55.95171,
+   "coord": "Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo; hay un radar de OSM a 126 m"
   },
   {
    "departamento": "Canelones",
    "ubicacion": "Av. Giannattasio y Márquez Castro (Ciudad de la Costa)",
    "limite": null,
-   "nota": "Radar verificado por LATU/Intendencia (2023)"
+   "nota": "Radar verificado por LATU/Intendencia (2023)",
+   "lat": -34.82186,
+   "lon": -55.95819,
+   "coord": "Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo (promedio de 4 nodos en unos 50 m); hay un radar de OSM a 255 m"
   },
   {
    "departamento": "Canelones",
    "ubicacion": "Rambla Costanera entre Yapeyú y Zapicán, cerca del Puente Barradas (Paso Carrasco)",
    "limite": null,
-   "nota": "Funciona desde 6/11/2023"
+   "nota": "Funciona desde 6/11/2023",
+   "lat": -34.87768,
+   "lon": -56.02859,
+   "coord": "Radar de OpenStreetMap candidato, a unos 75 m de Zapicán (extremo del tramo); no confirmado que sea el de la nota"
   },
   {
    "departamento": "Canelones",
@@ -2112,13 +2121,19 @@
    "departamento": "Canelones",
    "ubicacion": "Camino Tomás Aldabalde y Tiscornia (Las Piedras)",
    "limite": null,
-   "nota": "Desde setiembre 2024"
+   "nota": "Desde setiembre 2024",
+   "lat": -34.75472,
+   "lon": -56.23327,
+   "coord": "Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo"
   },
   {
    "departamento": "Canelones",
    "ubicacion": "Av. Artigas y Calle de las Industrias (Las Piedras)",
    "limite": null,
-   "nota": "Desde setiembre 2024"
+   "nota": "Desde setiembre 2024",
+   "lat": -34.74923,
+   "lon": -56.22385,
+   "coord": "Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo"
   },
   {
    "departamento": "Canelones",
@@ -2129,8 +2144,12 @@
   {
    "departamento": "Maldonado",
    "ubicacion": "Av. A la Laguna entre Centauro y Aldebarán (Punta del Este)",
-   "limite": null,
-   "nota": "Operativo desde 8/6/2026"
+   "limite": "45",
+   "nota": "Operativo desde 8/6/2026",
+   "lat": -34.91095,
+   "lon": -54.97918,
+   "coord": "Radar de OpenStreetMap candidato entre Centauro y Aldebarán (a 53 m del cruce con Centauro); no confirmado que sea el de la nota",
+   "lim_fuente": "OpenStreetMap (maxspeed del nodo candidato)"
   },
   {
    "departamento": "Maldonado",
@@ -2258,34 +2277,6 @@
    "limite": "60",
    "lat": -34.86276,
    "lon": -56.05492
-  },
-  {
-   "organismo": "OpenStreetMap (colaborativo)",
-   "departamento": "Canelones",
-   "limite": "75",
-   "lat": -34.87768,
-   "lon": -56.02859
-  },
-  {
-   "organismo": "OpenStreetMap (colaborativo)",
-   "departamento": "Cerro Largo",
-   "limite": null,
-   "lat": -32.37988,
-   "lon": -54.14355
-  },
-  {
-   "organismo": "OpenStreetMap (colaborativo)",
-   "departamento": "Cerro Largo",
-   "limite": null,
-   "lat": -32.38007,
-   "lon": -54.14436
-  },
-  {
-   "organismo": "OpenStreetMap (colaborativo)",
-   "departamento": "Colonia",
-   "limite": null,
-   "lat": -33.98083,
-   "lon": -58.28919
   },
   {
    "organismo": "OpenStreetMap (colaborativo)",
@@ -2538,13 +2529,6 @@
    "limite": null,
    "lat": -34.91024,
    "lon": -54.87253
-  },
-  {
-   "organismo": "OpenStreetMap (colaborativo)",
-   "departamento": "Maldonado",
-   "limite": "45",
-   "lat": -34.91095,
-   "lon": -54.97918
   },
   {
    "organismo": "OpenStreetMap (colaborativo)",
