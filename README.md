@@ -42,6 +42,31 @@ Cada registro incluye departamento, `lat`, `lon` y `limite` (km/h) cuando existe
 - Límites de velocidad de rutas: tomados de OpenStreetMap, no de una fuente oficial por punto.
 - Radares adicionales: etiquetados por colaboradores de OpenStreetMap. No están verificados y pueden incluir equipos retirados, móviles o duplicados por sentido de circulación.
 
+## Usar con Grok en un Tesla
+
+No hay una forma documentada de importar radares al navegador del auto. Este prompt es un intento con Grok y no está probado: puede que no pueda crear alertas por ubicación ni mostrar iconos en el mapa. Probalo estacionado, con un solo radar cercano primero, y comprobá en el mapa lo que diga (no confíes en un "listo"). No lo pruebes manejando.
+
+```text
+Quiero que me avises por voz cuando me acerque a un radar de velocidad en Uruguay, 200 metros antes de pasar por él.
+
+Datos: usá este CSV, una fila por radar (278 en total), con las columnas nombre, lat, lon, limite_kmh y calidad:
+https://raw.githubusercontent.com/juangallo/radares-uy/main/radares-uruguay.csv
+
+Lo que necesito:
+1. Alerta por ubicación a 200 m de cada radar. Si podés, que diga el límite de velocidad cuando exista.
+2. Un icono de radar o de faro en el mapa para cada punto. Si no se puede, decímelo.
+3. Cargá todos los radares del archivo.
+
+Antes de empezar, respondeme en pocas líneas:
+- Qué de esto podés hacer realmente en este auto y qué no.
+- Cómo lo vas a hacer (por ejemplo, cómo vas a detectar la cercanía sin que yo te pregunte).
+- Si encontrás un problema, proponé una alternativa en vez de decir que ya está hecho.
+
+Después de cargar, decime exactamente cuántos radares cargaste. Tienen que ser 278. Probemos primero con un radar cercano antes de seguir.
+
+Nota: la columna calidad indica qué tan confiable es cada punto. Los marcados osm_no_verificado pueden no ser radares vigentes.
+```
+
 ## Aviso
 
 Los datos pueden estar desactualizados o contener errores. Los radares se agregan, se mueven y se retiran. No lo uses como única referencia: respetá siempre la señalización.
