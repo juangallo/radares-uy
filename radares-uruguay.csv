@@ -1,0 +1,279 @@
+id,nombre,organismo,departamento,ruta,km,limite_kmh,lat,lon,calidad,fuente_coord,fuente_limite
+MVD001,Rambla República del Perú y Basilio Pereyra de la Luz,Intendencia de Montevideo,Montevideo,,,60,-34.909668,-56.140442,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD002,Rambla Wilson y Avenida Doctor Juan A. Cachón,Intendencia de Montevideo,Montevideo,,,60,-34.917674,-56.169008,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD003,Rambla Rep. de México y Costa Rica,Intendencia de Montevideo,Montevideo,,,60,-34.890908,-56.054413,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD004,Rambla M. Gandhi y Solano García,Intendencia de Montevideo,Montevideo,,,60,-34.924922,-56.154894,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD005,Rambla O'Higgins y 18 de Diciembre,Intendencia de Montevideo,Montevideo,,,60,-34.896148,-56.104404,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD006,Rambla O'Higgins y Motivos de Proteo,Intendencia de Montevideo,Montevideo,,,60,-34.895101,-56.085125,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD007,Av. Italia y Caldas,Intendencia de Montevideo,Montevideo,,,60,-34.887159,-56.114457,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD008,Av. Italia y Mataojo,Intendencia de Montevideo,Montevideo,,,60,-34.88704,-56.121302,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD009,Av. 8 de Octubre y Larravide,Intendencia de Montevideo,Montevideo,,,45,-34.874085,-56.138865,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD010,Bv. José Batlle y Ordóñez y Av. 8 de Octubre,Intendencia de Montevideo,Montevideo,,,,-34.879295,-56.147888,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),
+MVD011,Av. Rivera y Av. Luis P. Ponce,Intendencia de Montevideo,Montevideo,,,45,-34.902866,-56.161412,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD012,Av. Rivera y E. Arrascaeta,Intendencia de Montevideo,Montevideo,,,45,-34.89527,-56.120437,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD013,Bv. Artigas y Campisteguy,Intendencia de Montevideo,Montevideo,,,60,-34.869828,-56.168928,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD014,Bv. Artigas y Pedernal,Intendencia de Montevideo,Montevideo,,,60,-34.874859,-56.167055,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD015,Bv. Artigas y 21 de Setiembre,Intendencia de Montevideo,Montevideo,,,,-34.912971,-56.162957,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),
+MVD016,Av. Gral. Flores y Salustio,Intendencia de Montevideo,Montevideo,,,60,-34.842447,-56.152339,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD017,Ferrer Serra y Juan Paullier,Intendencia de Montevideo,Montevideo,,,45,-34.895066,-56.169984,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD018,Av. Millán y Cisplatina,Intendencia de Montevideo,Montevideo,,,45,-34.866435,-56.192365,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD019,Matto Grosso y Av. Gral. Eugenio Garzón,Intendencia de Montevideo,Montevideo,,,60,-34.809909,-56.221247,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD020,Av. Carlos María Ramírez y Camambú,Intendencia de Montevideo,Montevideo,,,45,-34.869579,-56.240337,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD021,Av. César Mayo Gutiérrez y Cno. Carmelo Colman,Intendencia de Montevideo,Montevideo,,,60,-34.797475,-56.224505,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD022,Santa Lucía y Joaquín Pose,Intendencia de Montevideo,Montevideo,,,45,-34.845372,-56.237176,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD023,Av. Uruguay y Vázquez,Intendencia de Montevideo,Montevideo,,,45,-34.902364,-56.18477,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD024,Bv. Batlle y Ordóñez y Mateo Cabral,Intendencia de Montevideo,Montevideo,,,60,-34.88576,-56.138957,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD025,Bv. Batlle y Ordóñez e Ibirocahy,Intendencia de Montevideo,Montevideo,,,60,-34.85175,-56.183644,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD026,Av. Gral. Rondeau y Venezuela,Intendencia de Montevideo,Montevideo,,,45,-34.893242,-56.19273,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD027,Av. Agraciada y Valentín Gómez,Intendencia de Montevideo,Montevideo,,,45,-34.864362,-56.210008,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD028,Bv. Gral. Artigas y Av. Millán,Intendencia de Montevideo,Montevideo,,,60,-34.871445,-56.190214,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD029,Cno. Maldonado y Turín,Intendencia de Montevideo,Montevideo,,,45,-34.83774,-56.11795,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD030,Av. Dr. Luis Alberto de Herrera y Cádiz,Intendencia de Montevideo,Montevideo,,,45,-34.874866,-56.158451,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD031,Gral. Urquiza y Comandante Braga,Intendencia de Montevideo,Montevideo,,,45,-34.886468,-56.159082,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD032,Av. Cibils y Mirungá,Intendencia de Montevideo,Montevideo,,,45,-34.845665,-56.272774,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD033,Av. José Belloni y Camino Pettirossi,Intendencia de Montevideo,Montevideo,,,45,-34.80271,-56.136607,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD034,Av. Cibils y Verdún,Intendencia de Montevideo,Montevideo,,,45,-34.866517,-56.268168,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD035,Av. Gral. San Martín y Pablo Scremini,Intendencia de Montevideo,Montevideo,,,45,-34.832256,-56.167992,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD036,José Llupes y Vitoria,Intendencia de Montevideo,Montevideo,,,45,-34.8514,-56.228234,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD037,Av. Italia y Sepee,Intendencia de Montevideo,Montevideo,,,75,-34.88429,-56.09274,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD038,Veracierto e Ing. Agr. José A. Otamendi,Intendencia de Montevideo,Montevideo,,,45,-34.864274,-56.121983,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD039,Carmelo y Av. Burgues,Intendencia de Montevideo,Montevideo,,,45,-34.864376,-56.186766,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD040,Bv. Artigas y Canelones,Intendencia de Montevideo,Montevideo,,,45,-34.906831,-56.163629,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD041,Rambla y Río Negro,Intendencia de Montevideo,Montevideo,,,"60 (45 en el carril contiguo a la ciclovía, sentido este)",-34.912662,-56.192902,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),Intendencia/El Observador
+MVD042,Rambla República de México y José Cúneo Perinetti,Intendencia de Montevideo,Montevideo,,,60,-34.898842,-56.064438,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),OpenStreetMap
+MVD043,Juan Jacobo Rousseau y María Stagnero de Munar,Intendencia de Montevideo,Montevideo,,,45,-34.876065,-56.14628,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),OpenStreetMap
+MVD044,Nueva Palmira y Democracia,Intendencia de Montevideo,Montevideo,,,45,-34.888885,-56.176951,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),OpenStreetMap
+MVD045,Jujuy y Entre Ríos,Intendencia de Montevideo,Montevideo,,,45,-34.88236,-56.196271,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),OpenStreetMap
+MVD046,Uruguayana y Enrique Turini,Intendencia de Montevideo,Montevideo,,,,-34.868575,-56.210436,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),
+MVD047,Av. Luis Alberto de Herrera y Ayacucho,Intendencia de Montevideo,Montevideo,,,,-34.894016,-56.144316,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),
+MVD048,Av. Millán y Av. Gral. Eugenio Garzón,Intendencia de Montevideo,Montevideo,,,,-34.83463,-56.221477,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),
+MVD049,Caramurú y Hernani,Intendencia de Montevideo,Montevideo,,,45,-34.892674,-56.085765,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),OpenStreetMap
+MVD050,Av. Joaquín Suárez y Av. Juan Carlos Blanco,Intendencia de Montevideo,Montevideo,,,,-34.863726,-56.19615,oficial_via_tercero,jdavisonc.com (dice tomarlas del mapa oficial de la Intendencia),
+MTOP001,"Accesos a Montevideo km 5,845 (Santín Carlos Rossi)",MTOP,Montevideo,Accesos a Montevideo,"5,845",75,-34.86413,-56.2527,oficial,MTOP Geoportal,OpenStreetMap
+MTOP002,"Accesos a Montevideo km 5,100 (Pantanoso)",MTOP,Montevideo,Accesos a Montevideo,"5,100",90,-34.86699,-56.2462,oficial,MTOP Geoportal,OpenStreetMap
+MTOP003,"Accesos a Montevideo km 2,210 / 2,220 (Capurro)",MTOP,Montevideo,Accesos a Montevideo,"2,210 / 2,220",90,-34.87027,-56.21911,oficial,MTOP Geoportal,OpenStreetMap
+MTOP004,"Accesos a Montevideo km 3,650 / 3,750 (Refinería)",MTOP,Montevideo,Accesos a Montevideo,"3,650 / 3,750",90,-34.87199,-56.23326,oficial,MTOP Geoportal,OpenStreetMap
+MTOP005,"Accesos a Montevideo km 5,600 (Pantanoso)",MTOP,Montevideo,Accesos a Montevideo,"5,600",75,-34.86451,-56.25017,oficial,MTOP Geoportal,OpenStreetMap
+MTOP006,"Accesos a Montevideo km 1,530 / 1,570 (Juan Carlos Gómez)",MTOP,Montevideo,Accesos a Montevideo,"1,530 / 1,570",,-34.90251,-56.20487,oficial,MTOP Geoportal,
+MTOP007,"Ruta 1 km 19,865 / 20,070 (Basilio Muñoz)",MTOP,Montevideo,Ruta 1,"19,865 / 20,070",,-34.8006,-56.34593,oficial,MTOP Geoportal,
+MTOP008,"Ruta 1 km 61,336 / 61,178 (Punta de Valdez)",MTOP,San José,Ruta 1,"61,336 / 61,178",75,-34.5905,-56.7052,oficial,MTOP Geoportal,OpenStreetMap
+MTOP009,"Ruta 1 km 120,987 (Colonia Valdense)",MTOP,Colonia,Ruta 1,"120,987",,-34.3362,-57.2603,oficial,MTOP Geoportal,
+MTOP010,"Ruta 1 km 174,210 (Colonia del Sacramento)",MTOP,Colonia,Ruta 1,"174,210",45,-34.4556,-57.8156,oficial,MTOP Geoportal,OpenStreetMap
+MTOP011,"Ruta 1 km 51,571 / 51,278 (Paso Mauricio)",MTOP,San José,Ruta 1,"51,571 / 51,278",75,-34.6448,-56.6209,oficial,MTOP Geoportal,OpenStreetMap
+MTOP012,"Ruta 1 km 29,000 (Penino (sentido +))",MTOP,San José,Ruta 1,"29,000",60,-34.7415,-56.4445,oficial,MTOP Geoportal,OpenStreetMap
+MTOP013,"Ruta 1 km 29,360 (Penino (sentido -))",MTOP,San José,Ruta 1,"29,360",60,-34.7547,-56.4243,oficial,MTOP Geoportal,OpenStreetMap
+MTOP014,"Ruta 1 km 101,738 (Ecilda Paullier)",MTOP,San José,Ruta 1,"101,738",60,-34.36628,-57.0518,oficial,MTOP Geoportal,OpenStreetMap
+MTOP015,"Ruta 2 km 181,957 (Florencio Sánchez)",MTOP,Colonia,Ruta 2,"181,957",45,-33.8773,-57.3724,oficial,MTOP Geoportal,OpenStreetMap
+MTOP016,"Ruta 3 km 383,490",MTOP,Paysandú,Ruta 3,"383,490",45,-32.20729,-58.00403,oficial,MTOP Geoportal,OpenStreetMap
+MTOP017,"Ruta 3 km 624,037 (Bella Unión)",MTOP,Artigas,Ruta 3,"624,037",,-30.24854,-57.58785,oficial,MTOP Geoportal,
+MTOP018,"Ruta 3 km 626,411 (Bella Unión, Barrio Las Láminas)",MTOP,Artigas,Ruta 3,"626,411",,-30.2631,-57.5901,oficial,MTOP Geoportal,
+MTOP019,"Ruta 3 km 191,370 (Trinidad (acceso))",MTOP,Flores,Ruta 3,"191,370",45,-33.5128,-56.9124,oficial,MTOP Geoportal,OpenStreetMap
+MTOP020,"Ruta 3 km 187,090 (Trinidad (acceso))",MTOP,Flores,Ruta 3,"187,090",45,-33.5363,-56.8887,oficial,MTOP Geoportal,OpenStreetMap
+MTOP021,"Ruta 3 km 71,785 (Villa María (acceso))",MTOP,San José,Ruta 3,"71,785",45,-34.5123,-56.7623,oficial,MTOP Geoportal,OpenStreetMap
+MTOP022,"Ruta 3 km 71,150 (Villa María (acceso))",MTOP,San José,Ruta 3,"71,150",45,-34.518,-56.7613,oficial,MTOP Geoportal,OpenStreetMap
+MTOP023,"Ruta 3 km 92,275 (San José, Parque Rodó)",MTOP,San José,Ruta 3,"92,275",45,-34.3339,-56.7311,oficial,MTOP Geoportal,OpenStreetMap
+MTOP024,"Ruta 3 km 432,005 (Termas del Guaviyú)",MTOP,Paysandú,Ruta 3,"432,005",,-31.83994,-57.88638,oficial,MTOP Geoportal,
+MTOP025,"Ruta 3 km 476,980 (Termas del Daymán)",MTOP,Salto,Ruta 3,"476,980",,-31.4568,-57.90482,oficial,MTOP Geoportal,
+MTOP026,"Ruta 3 km 478,265 (Termas del Daymán)",MTOP,Salto,Ruta 3,"478,265",,-31.44971,-57.91426,oficial,MTOP Geoportal,
+MTOP027,"Ruta 3 km 482,920 (Salto Sur)",MTOP,Salto,Ruta 3,"482,920",,-31.41615,-57.94101,oficial,MTOP Geoportal,
+MTOP028,"Ruta 4 km 380,110 (Guichón)",MTOP,Paysandú,Ruta 4,"380,110",,-32.36073,-57.2094,oficial,MTOP Geoportal,
+MTOP029,"Ruta 5 km 13,322 / 13,625 (La Redención)",MTOP,Montevideo,Ruta 5,"13,322 / 13,625",60,-34.8008,-56.26408,oficial,MTOP Geoportal,OpenStreetMap
+MTOP030,"Ruta 5 km 17,541 / 17,788 (Fauquet)",MTOP,Montevideo,Ruta 5,"17,541 / 17,788",60,-34.76732,-56.26625,oficial,MTOP Geoportal,OpenStreetMap
+MTOP031,"Ruta 5 km 393,020",MTOP,Tacuarembó,Ruta 5,"393,020",,-31.6966,-55.9412,oficial,MTOP Geoportal,
+MTOP032,"Ruta 5 km 37,480 (Juanicó)",MTOP,Canelones,Ruta 5,"37,480",,-34.5971,-56.2619,oficial,MTOP Geoportal,
+MTOP033,"Ruta 5 km 38,131 (Juanicó)",MTOP,Canelones,Ruta 5,"38,131",,-34.5912,-56.2629,oficial,MTOP Geoportal,
+MTOP034,"Ruta 5 km 186,392 (Santa Bernardina)",MTOP,Durazno,Ruta 5,"186,392",,-33.3661,-56.5091,oficial,MTOP Geoportal,
+MTOP035,"Ruta 5 km 248,000 (Pueblo Centenario)",MTOP,Durazno,Ruta 5,"248,000",,-32.8251,-56.4987,oficial,MTOP Geoportal,
+MTOP036,"Ruta 5 km 377,354 (Paso Bonilla)",MTOP,Tacuarembó,Ruta 5,"377,354",,-31.8105,-55.9755,oficial,MTOP Geoportal,
+MTOP037,"Ruta 5 km 385,972 (Tacuarembó / Ruta 26)",MTOP,Tacuarembó,Ruta 5,"385,972",,-31.7414,-55.9825,oficial,MTOP Geoportal,
+MTOP038,"Ruta 5 km 393,605 (Tacuarembó / Ruta 26)",MTOP,Tacuarembó,Ruta 5,"393,605",,-31.6939,-55.9387,oficial,MTOP Geoportal,
+MTOP039,"Ruta 7 km 1,136 (Melo / Ruta 7 NE)",MTOP,Cerro Largo,Ruta 7,"1,136",,-32.3603,-54.153,oficial,MTOP Geoportal,
+MTOP040,"Ruta 7 km 52,528 (San Jacinto)",MTOP,Canelones,Ruta 7,"52,528",,-34.54951,-55.87639,oficial,MTOP Geoportal,
+MTOP041,"Ruta 7 km 77,785 (Tala)",MTOP,Canelones,Ruta 7,"77,785",,-34.35012,-55.76751,oficial,MTOP Geoportal,
+MTOP042,"Ruta 7 km 79,500 (Tala)",MTOP,Canelones,Ruta 7,"79,500",,-34.34112,-55.75407,oficial,MTOP Geoportal,
+MTOP043,"Ruta 7 km 94,610 (Fray Marcos)",MTOP,Florida,Ruta 7,"94,610",,-34.20591,-55.74364,oficial,MTOP Geoportal,
+MTOP044,"Ruta 7 km 97,620 / 98,078 (Fray Marcos)",MTOP,Florida,Ruta 7,"97,620 / 98,078",,-34.19248,-55.72891,oficial,MTOP Geoportal,
+MTOP045,"Ruta 7 km 110,240 (Casupá)",MTOP,Florida,Ruta 7,"110,240",,-34.10417,-55.65793,oficial,MTOP Geoportal,
+MTOP046,"Ruta 7 km 111,100 (Casupá)",MTOP,Florida,Ruta 7,"111,100",,-34.09801,-55.65219,oficial,MTOP Geoportal,
+MTOP047,"Ruta 7 km 142,010 (Alejandro Gallinal)",MTOP,Florida,Ruta 7,"142,010",,-33.86773,-55.55164,oficial,MTOP Geoportal,
+MTOP048,"Ruta 7 km 143,910 (Alejandro Gallinal)",MTOP,Florida,Ruta 7,"143,910",,-33.86007,-55.53642,oficial,MTOP Geoportal,
+MTOP049,"Ruta 7 km 204,320 (José Batlle y Ordóñez)",MTOP,Florida,Ruta 7,"204,320",,-33.47344,-55.15131,oficial,MTOP Geoportal,
+MTOP050,"Ruta 7 km 205,485 (José Batlle y Ordóñez)",MTOP,Florida,Ruta 7,"205,485",,-33.46434,-55.14606,oficial,MTOP Geoportal,
+MTOP051,"Ruta 7 km 249,960 (Cerro Chato Sur)",MTOP,Treinta y Tres,Ruta 7,"249,960",,-33.11258,-55.13255,oficial,MTOP Geoportal,
+MTOP052,"Ruta 7 km 279,880 (Santa Clara del Olimar)",MTOP,Treinta y Tres,Ruta 7,"279,880",,-32.92414,-54.95535,oficial,MTOP Geoportal,
+MTOP053,"Ruta 7 km 282,530 (Santa Clara del Olimar)",MTOP,Treinta y Tres,Ruta 7,"282,530",,-32.91778,-54.93123,oficial,MTOP Geoportal,
+MTOP054,"Ruta 7 km 303,455 (Tupambaé)",MTOP,Cerro Largo,Ruta 7,"303,455",,-32.84124,-54.76678,oficial,MTOP Geoportal,
+MTOP055,"Ruta 7 km 304,835 (Tupambaé)",MTOP,Cerro Largo,Ruta 7,"304,835",,-32.83654,-54.75463,oficial,MTOP Geoportal,
+MTOP056,"Ruta 7 km 337,215 (Cerro de las Cuentas)",MTOP,Cerro Largo,Ruta 7,"337,215",,-32.62295,-54.59185,oficial,MTOP Geoportal,
+MTOP057,"Ruta 7 km 350,615 (Fraile Muerto)",MTOP,Cerro Largo,Ruta 7,"350,615",,-32.51809,-54.54096,oficial,MTOP Geoportal,
+MTOP058,"Ruta 7 km 354,415 (Fraile Muerto)",MTOP,Cerro Largo,Ruta 7,"354,415",,-32.50647,-54.51482,oficial,MTOP Geoportal,
+MTOP059,"Ruta 8 km 13,457 / 13,385 (Punta de Rieles, Barros Blancos)",MTOP,Montevideo,Ruta 8,"13,457 / 13,385",60,-34.8207,-56.0999,oficial,MTOP Geoportal,OpenStreetMap
+MTOP060,"Ruta 8 km 23,479 (Punta de Rieles, Barros Blancos)",MTOP,Montevideo,Ruta 8,"23,479",60,-34.8222,-56.1005,oficial,MTOP Geoportal,OpenStreetMap
+MTOP061,"Ruta 8 km 24,410 (Punta de Rieles, Barros Blancos)",MTOP,Canelones,Ruta 8,"24,410",60,-34.7666,-56.022,oficial,MTOP Geoportal,OpenStreetMap
+MTOP062,"Ruta 8 km 25,025 (Punta de Rieles, Barros Blancos)",MTOP,Canelones,Ruta 8,"25,025",60,-34.7612,-56.014,oficial,MTOP Geoportal,OpenStreetMap
+MTOP063,"Ruta 8 km 391,991 (Melo)",MTOP,Cerro Largo,Ruta 8,"391,991",45,-32.3904,-54.1386,oficial,MTOP Geoportal,OpenStreetMap
+MTOP064,"Ruta 8 km 401,886 (Melo)",MTOP,Cerro Largo,Ruta 8,"401,886",,-32.3442,-54.1683,oficial,MTOP Geoportal,
+MTOP065,"Ruta 8 km 288,645 (Treinta y Tres)",MTOP,Treinta y Tres,Ruta 8,"288,645",,-33.2024,-54.3831,oficial,MTOP Geoportal,
+MTOP066,"Ruta 8 km 217,132 (Pirarajá)",MTOP,Lavalleja,Ruta 8,"217,132",,-33.7429,-54.7538,oficial,MTOP Geoportal,
+MTOP067,"Ruta 9 km 205,380 (Rocha)",MTOP,Rocha,Ruta 9,"205,380",,-34.50178,-54.33249,oficial,MTOP Geoportal,
+MTOP068,"Ruta 9 km 264,038 (Castillos)",MTOP,Rocha,Ruta 9,"264,038",60,-34.2051,-53.8538,oficial,MTOP Geoportal,OpenStreetMap
+MTOP069,"Ruta 9 km 338,106 (Chuy)",MTOP,Rocha,Ruta 9,"338,106",45,-33.6941,-53.4476,oficial,MTOP Geoportal,OpenStreetMap
+MTOP070,"Ruta 9 km 209,409 (Rocha)",MTOP,Rocha,Ruta 9,"209,409",60,-34.47578,-54.30481,oficial,MTOP Geoportal,OpenStreetMap
+MTOP071,"Ruta 11 km 14,621 (Ecilda Paullier)",MTOP,San José,Ruta 11,"14,621",45,-34.35474,-57.03899,oficial,MTOP Geoportal,OpenStreetMap
+MTOP072,"Ruta 11 km 39,646 (Juan Soler)",MTOP,San José,Ruta 11,"39,646",45,-34.3248,-56.80106,oficial,MTOP Geoportal,OpenStreetMap
+MTOP073,"Ruta 11 km 38,923 (Juan Soler)",MTOP,San José,Ruta 11,"38,923",45,-34.3214,-56.80828,oficial,MTOP Geoportal,OpenStreetMap
+MTOP074,"Ruta 11 km 139,390 (San Jacinto)",MTOP,Canelones,Ruta 11,"139,390",,-34.55038,-55.86885,oficial,MTOP Geoportal,
+MTOP075,"Ruta 11 km 138,372 (San Jacinto)",MTOP,Canelones,Ruta 11,"138,372",,-34.54562,-55.87812,oficial,MTOP Geoportal,
+MTOP076,"Ruta 11 km 86,573 (Santa Lucía)",MTOP,Canelones,Ruta 11,"86,573",,-34.4612,-56.37803,oficial,MTOP Geoportal,
+MTOP077,"Ruta 11 km 96,586 (Canelones)",MTOP,Canelones,Ruta 11,"96,586",,-34.52071,-56.30107,oficial,MTOP Geoportal,
+MTOP078,"Ruta 12 km 78,836 (Tala)",MTOP,Canelones,Ruta 12,"78,836",,-34.34331,-55.77294,oficial,MTOP Geoportal,
+MTOP079,"Ruta 14 km 138,644 (Trinidad)",MTOP,Flores,Ruta 14,"138,644",75,-33.5147,-56.8833,oficial,MTOP Geoportal,OpenStreetMap
+MTOP080,"Ruta 15 km 27,482 (Rocha)",MTOP,Rocha,Ruta 15,"27,482",45,-34.49237,-54.31465,oficial,MTOP Geoportal,OpenStreetMap
+MTOP081,"Ruta 17 km 289,350 (Treinta y Tres)",MTOP,Treinta y Tres,Ruta 17,"289,350",,-33.215,-54.3696,oficial,MTOP Geoportal,
+MTOP082,"Ruta 19 km 9,970 (18 de Julio)",MTOP,Rocha,Ruta 19,"9,970",45,-33.68448,-53.55135,oficial,MTOP Geoportal,OpenStreetMap
+MTOP083,"Ruta 21 km 323,100",MTOP,Soriano,Ruta 21,"323,100",,-33.51639,-58.19766,estimada,ESTIMADA: extrapolada 100 m desde el poste km 323 del MTOP (falta el poste 324); sin respaldo en OpenStreetMap,
+MTOP084,"Ruta 21 km 322,880 (Puente sobre Río San Salvador)",MTOP,Soriano,Ruta 21,"322,880",,-33.51714,-58.19958,oficial,MTOP Geoportal,
+MTOP085,"Ruta 21 km 178,500 (Colonia)",MTOP,Colonia,Ruta 21,"178,500",,-34.4459,-57.83753,oficial,MTOP Geoportal,
+MTOP086,"Ruta 21 km 255,710 (Carmelo)",MTOP,Colonia,Ruta 21,"255,710",,-33.98083,-58.28919,aproximada,"OpenStreetMap (nodo ""Carmelo O"", operator=MTOP); no figura en la capa del Geoportal",
+MTOP087,"Ruta 23 km 149,485 (Ismael Cortinas)",MTOP,Flores,Ruta 23,"149,485",45,-33.9655,-57.0923,oficial,MTOP Geoportal,OpenStreetMap
+MTOP088,"Ruta 26 km 84,870 (Río Branco)",MTOP,Cerro Largo,Ruta 26,"84,870",,-32.60164,-53.4067,oficial,MTOP Geoportal,
+MTOP089,"Ruta 26 km 430,679 (Melo)",MTOP,Cerro Largo,Ruta 26,"430,679",,-32.3653,-54.2122,oficial,MTOP Geoportal,
+MTOP090,"Ruta 26 km 1,976 (Melo)",MTOP,Cerro Largo,Ruta 26,"1,976",,-32.37998,-54.14407,aproximada,Interpolada con postes km 1 y 2 del MTOP; coincide con 2 nodos de OpenStreetMap a 29 y 50 m,
+MTOP091,"Ruta 30 km 128,280 (Artigas (acceso Ruta 4))",MTOP,Artigas,Ruta 30,"128,280",,-30.4187,-56.4897,oficial,MTOP Geoportal,
+MTOP092,"Ruta 30 km 132,715 (Artigas (Pintado Grande))",MTOP,Artigas,Ruta 30,"132,715",,-30.4341,-56.4531,oficial,MTOP Geoportal,
+MTOP093,"Ruta 30 km 130,890 (Artigas (bypass O-E))",MTOP,Artigas,Ruta 30,"130,890",,-30.4224,-56.4663,oficial,MTOP Geoportal,
+MTOP094,"Ruta 34 km 41,090",MTOP,Canelones,Ruta 34,"41,090",,-34.71694,-55.87917,oficial,MTOP Geoportal,
+MTOP095,"Ruta 34 km 42,190",MTOP,Canelones,Ruta 34,"42,190",,-34.72583,-55.87667,oficial,MTOP Geoportal,
+MTOP096,"Ruta 55 km 13,340 (Campana)",MTOP,Colonia,Ruta 55,"13,340",45,-34.03219,-57.89992,oficial,MTOP Geoportal,OpenStreetMap
+MTOP097,"Ruta 67 km 24,850 (Las Piedras)",MTOP,Canelones,Ruta 67,"24,850",,-34.70738,-56.2052,oficial,MTOP Geoportal,
+MTOP098,"Ruta 67 km 39,395 (Sauce)",MTOP,Canelones,Ruta 67,"39,395",60,-34.65325,-56.07495,oficial,MTOP Geoportal,OpenStreetMap
+MTOP099,"Ruta 74 km 25,135 (Barros Blancos)",MTOP,Canelones,Ruta 74,"25,135",60,-34.75418,-56.01919,oficial,MTOP Geoportal,OpenStreetMap
+MTOP100,"Ruta 74 km 30,510 (Ruta 6)",MTOP,Canelones,Ruta 74,"30,510",60,-34.71562,-56.05148,oficial,MTOP Geoportal,OpenStreetMap
+MTOP101,"Ruta 75 km 35,175 (Villa Jardines de Pando)",MTOP,Canelones,Ruta 75,"35,175",,-34.68663,-55.96809,oficial,MTOP Geoportal,
+MTOP102,"Ruta 81 km 10,390",MTOP,Canelones,Ruta 81,"10,390",,-34.4253,-56.2826,oficial,MTOP Geoportal,
+MTOP103,"Ruta 81 km 9,815 (Paso a Pache)",MTOP,Canelones,Ruta 81,"9,815",,-34.428,-56.28771,oficial,MTOP Geoportal,
+MTOP104,"Ruta 90 km 5,435",MTOP,Paysandú,Ruta 90,"5,435",,-32.32337,-58.04638,oficial,MTOP Geoportal,
+MTOP105,"Ruta 93 km 109,603",MTOP,Maldonado,Ruta 93,"109,603",60,-34.8652,-55.1396,oficial,MTOP Geoportal,OpenStreetMap
+MTOP106,"Ruta 93 km 109,900",MTOP,Maldonado,Ruta 93,"109,900",60,-34.8645,-55.13646,oficial,MTOP Geoportal,OpenStreetMap
+MTOP107,"Ruta 93 km 2,552",MTOP,Maldonado,Ruta 93,"2,552",,-34.86747,-55.2409,oficial,MTOP Geoportal,
+MTOP108,"Ruta 101 km 25,541 (Barrio Aeroparque)",MTOP,Canelones,Ruta 101,"25,541",75,-34.7898,-56.0016,oficial,MTOP Geoportal,OpenStreetMap
+MTOP109,"Ruta 101 km 24,825 (Barrio Aeroparque)",MTOP,Canelones,Ruta 101,"24,825",75,-34.7961,-56.0031,oficial,MTOP Geoportal,OpenStreetMap
+MTOP110,"Ruta 102 km 22,900 (Leopolis)",MTOP,Canelones,Ruta 102,"22,900",60,-34.8184,-56.015,oficial,MTOP Geoportal,OpenStreetMap
+MTOP111,"Ruta 102 km 24,220 (Parque Martinelli)",MTOP,Canelones,Ruta 102,"24,220",60,-34.8161,-56.0292,oficial,MTOP Geoportal,OpenStreetMap
+MTOP112,"Ruta 102 km 24,950 / 25,085 (Los Paraísos)",MTOP,Canelones,Ruta 102,"24,950 / 25,085",60,-34.8124,-56.0374,oficial,MTOP Geoportal,OpenStreetMap
+MTOP113,"Ruta 102 km 27,840 (Campeón del Siglo)",MTOP,Montevideo,Ruta 102,"27,840",,-34.7972,-56.0627,oficial,MTOP Geoportal,
+MTOP114,"Ruta 102 km 31,618 / 31,516 (Camino Cruz del Sur)",MTOP,Montevideo,Ruta 102,"31,618 / 31,516",,-34.79248,-56.09788,oficial,MTOP Geoportal,
+MTOP115,"Ruta 102 km 36,750 / 36,636 (Av. de las Instrucciones)",MTOP,Montevideo,Ruta 102,"36,750 / 36,636",,-34.79704,-56.15245,oficial,MTOP Geoportal,
+MTOP116,"Ruta 102 km 45,900 (Camino Fauquet)",MTOP,Montevideo,Ruta 102,"45,900",,-34.78283,-56.24666,oficial,MTOP Geoportal,
+MTOP117,"Ruta 107 km 0,394 (Sauce)",MTOP,Canelones,Ruta 107,"0,394",60,-34.64357,-56.07021,oficial,MTOP Geoportal,OpenStreetMap
+MTOP118,"Ruta Interbalnearia km 22,079 / 21,826 (Almenara)",MTOP,Canelones,Ruta Interbalnearia,"22,079 / 21,826",75,-34.8263,-56.0005,oficial,MTOP Geoportal,OpenStreetMap
+MTOP119,"Ruta Interbalnearia km 27,442 / 27,093 (Colinas de Solymar)",MTOP,Canelones,Ruta Interbalnearia,"27,442 / 27,093",75,-34.8031,-55.9538,oficial,MTOP Geoportal,OpenStreetMap
+MTOP120,"Ruta Interbalnearia km 35,369 / 35,210 (Neptunia)",MTOP,Canelones,Ruta Interbalnearia,"35,369 / 35,210",75,-34.7806,-55.8738,oficial,MTOP Geoportal,OpenStreetMap
+MTOP121,"Ruta Interbalnearia km 37,065 / 36,800 (Av. Nogueira y Colón)",MTOP,Canelones,Ruta Interbalnearia,"37,065 / 36,800",75,-34.7778,-55.8571,oficial,MTOP Geoportal,OpenStreetMap
+MTOP122,"Ruta Interbalnearia km 40,435 / 40,091 (Marindia)",MTOP,Canelones,Ruta Interbalnearia,"40,435 / 40,091",75,-34.7718,-55.8221,oficial,MTOP Geoportal,OpenStreetMap
+MTOP123,"Ruta Interbalnearia km 64,000 (San Luis)",MTOP,Canelones,Ruta Interbalnearia,"64,000",60,-34.7705,-55.5748,oficial,MTOP Geoportal,OpenStreetMap
+MTOP124,"Ruta Interbalnearia km 63,000 (San Luis)",MTOP,Canelones,Ruta Interbalnearia,"63,000",60,-34.762,-55.5882,oficial,MTOP Geoportal,OpenStreetMap
+MTOP125,"Ruta 3 km 453,110 (Figura en el Geoportal, no en el listado publicado)",MTOP,Paysandú,Ruta 3,"453,110",60,-31.65874,-57.89171,oficial,MTOP Geoportal,OpenStreetMap
+INT001,"Ruta 1 km 118,500",Ministerio del Interior,Colonia,Ruta 1,"118,500",,-34.33986,-57.23344,oficial_interpolada,Interpolada con postes km del MTOP,
+INT002,Ruta 5 km 75,Ministerio del Interior,Florida,Ruta 5,75,,-34.27406,-56.21471,oficial_interpolada,Interpolada con postes km del MTOP,
+INT003,Ruta 7 km 36,Ministerio del Interior,Canelones,Ruta 7,36,,-34.6592,-55.99141,oficial_interpolada,Interpolada con postes km del MTOP,
+INT004,"Ruta 8 km 135,100",Ministerio del Interior,Lavalleja,Ruta 8,"135,100",,-34.33427,-55.07784,oficial_interpolada,Interpolada con postes km del MTOP,
+INT005,"Ruta 9 km 88,500",Ministerio del Interior,Maldonado,Ruta 9,"88,500",,-34.75392,-55.38681,oficial_interpolada,Interpolada con postes km del MTOP,
+INT006,"Ruta 11 km 113,500",Ministerio del Interior,Canelones,Ruta 11,"113,500",,-34.50952,-56.13125,oficial_interpolada,Interpolada con postes km del MTOP,
+INT007,"Ruta Interbalnearia km 47,200",Ministerio del Interior,Canelones,Ruta Interbalnearia,"47,200",75,-34.76294,-55.74581,oficial_interpolada,Interpolada con postes km del MTOP,OpenStreetMap
+INT008,Ruta Interbalnearia km 52,Ministerio del Interior,Canelones,Ruta Interbalnearia,52,,-34.74915,-55.69676,oficial_interpolada,Interpolada con postes km del MTOP,
+PRE001,Rambla y Márquez Castro (Ciudad de la Costa),Intendencia (prensa),Canelones,,,60,-34.83335,-55.95171,aproximada,Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo; hay un radar de OSM a 126 m,ver README
+PRE002,Av. Giannattasio y Márquez Castro (Ciudad de la Costa),Intendencia (prensa),Canelones,,,,-34.82186,-55.95819,aproximada,Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo (promedio de 4 nodos en unos 50 m); hay un radar de OSM a 255 m,
+PRE003,"Rambla Costanera entre Yapeyú y Zapicán, cerca del Puente Barradas (Paso Carrasco)",Intendencia (prensa),Canelones,,,,-34.87768,-56.02859,aproximada,"Radar de OpenStreetMap candidato, a unos 75 m de Zapicán (extremo del tramo); no confirmado que sea el de la nota",
+PRE004,Camino Tomás Aldabalde y Tiscornia (Las Piedras),Intendencia (prensa),Canelones,,,,-34.75472,-56.23327,aproximada,Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo,
+PRE005,Av. Artigas y Calle de las Industrias (Las Piedras),Intendencia (prensa),Canelones,,,,-34.74923,-56.22385,aproximada,Centro de la intersección calculado con OpenStreetMap (nodos compartidos por ambas calles); no es la ubicación verificada del equipo,
+PRE006,Av. A la Laguna entre Centauro y Aldebarán (Punta del Este),Intendencia (prensa),Maldonado,,,45,-34.91095,-54.97918,aproximada,Radar de OpenStreetMap candidato entre Centauro y Aldebarán (a 53 m del cruce con Centauro); no confirmado que sea el de la nota,OpenStreetMap (maxspeed del nodo candidato)
+OSM001,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,45,-34.72643,-55.96341,osm_no_verificado,OpenStreetMap,ver README
+OSM002,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,45,-34.73677,-56.09369,osm_no_verificado,OpenStreetMap,ver README
+OSM003,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,45,-34.73756,-56.09397,osm_no_verificado,OpenStreetMap,ver README
+OSM004,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.7575,-56.00906,osm_no_verificado,OpenStreetMap,ver README
+OSM005,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.76514,-55.75328,osm_no_verificado,OpenStreetMap,ver README
+OSM006,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.76597,-55.75916,osm_no_verificado,OpenStreetMap,ver README
+OSM007,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,75,-34.77293,-55.98612,osm_no_verificado,OpenStreetMap,ver README
+OSM008,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,30,-34.7842,-55.88796,osm_no_verificado,OpenStreetMap,ver README
+OSM009,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,20,-34.78554,-55.88927,osm_no_verificado,OpenStreetMap,ver README
+OSM010,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.80588,-55.92922,osm_no_verificado,OpenStreetMap,ver README
+OSM011,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,45,-34.80797,-55.91152,osm_no_verificado,OpenStreetMap,ver README
+OSM012,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.82037,-55.95603,osm_no_verificado,OpenStreetMap,ver README
+OSM013,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.83262,-55.95064,osm_no_verificado,OpenStreetMap,ver README
+OSM014,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.84641,-56.00264,osm_no_verificado,OpenStreetMap,ver README
+OSM015,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.84854,-56.03274,osm_no_verificado,OpenStreetMap,ver README
+OSM016,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.857,-55.99121,osm_no_verificado,OpenStreetMap,ver README
+OSM017,Radar OSM (Canelones),OpenStreetMap (colaborativo),Canelones,,,60,-34.86276,-56.05492,osm_no_verificado,OpenStreetMap,ver README
+OSM018,Radar OSM (Flores),OpenStreetMap (colaborativo),Flores,,,60,-33.16775,-57.12805,osm_no_verificado,OpenStreetMap,ver README
+OSM019,Radar OSM (Florida),OpenStreetMap (colaborativo),Florida,,,45,-34.10491,-56.24408,osm_no_verificado,OpenStreetMap,ver README
+OSM020,Radar OSM (Lavalleja),OpenStreetMap (colaborativo),Lavalleja,,,45,-34.35476,-55.24448,osm_no_verificado,OpenStreetMap,ver README
+OSM021,Radar OSM (Lavalleja),OpenStreetMap (colaborativo),Lavalleja,,,,-34.36565,-55.23038,osm_no_verificado,OpenStreetMap,
+OSM022,Radar OSM (Lavalleja),OpenStreetMap (colaborativo),Lavalleja,,,45,-34.3676,-55.20847,osm_no_verificado,OpenStreetMap,ver README
+OSM023,Radar OSM (Lavalleja),OpenStreetMap (colaborativo),Lavalleja,,,45,-34.37198,-55.23058,osm_no_verificado,OpenStreetMap,ver README
+OSM024,Radar OSM (Lavalleja),OpenStreetMap (colaborativo),Lavalleja,,,45,-34.37892,-55.25678,osm_no_verificado,OpenStreetMap,ver README
+OSM025,Radar OSM (Lavalleja),OpenStreetMap (colaborativo),Lavalleja,,,45,-34.37907,-55.26264,osm_no_verificado,OpenStreetMap,ver README
+OSM026,Radar OSM (Lavalleja),OpenStreetMap (colaborativo),Lavalleja,,,45,-34.59245,-55.46519,osm_no_verificado,OpenStreetMap,ver README
+OSM027,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.76894,-55.22075,osm_no_verificado,OpenStreetMap,ver README
+OSM028,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,30,-34.77811,-55.3936,osm_no_verificado,OpenStreetMap,ver README
+OSM029,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.77868,-54.91964,osm_no_verificado,OpenStreetMap,ver README
+OSM030,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.78054,-55.22472,osm_no_verificado,OpenStreetMap,ver README
+OSM031,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.83964,-55.26582,osm_no_verificado,OpenStreetMap,ver README
+OSM032,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.83984,-55.30374,osm_no_verificado,OpenStreetMap,ver README
+OSM033,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.84051,-55.30295,osm_no_verificado,OpenStreetMap,ver README
+OSM034,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.85239,-55.27657,osm_no_verificado,OpenStreetMap,ver README
+OSM035,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.85374,-55.27751,osm_no_verificado,OpenStreetMap,ver README
+OSM036,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.85616,-55.29254,osm_no_verificado,OpenStreetMap,ver README
+OSM037,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.85656,-55.29168,osm_no_verificado,OpenStreetMap,ver README
+OSM038,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.85662,-54.94396,osm_no_verificado,OpenStreetMap,
+OSM039,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.85729,-55.28103,osm_no_verificado,OpenStreetMap,ver README
+OSM040,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.87775,-55.05699,osm_no_verificado,OpenStreetMap,ver README
+OSM041,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.88192,-55.04725,osm_no_verificado,OpenStreetMap,ver README
+OSM042,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.8821,-55.04629,osm_no_verificado,OpenStreetMap,ver README
+OSM043,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.88749,-54.78277,osm_no_verificado,OpenStreetMap,ver README
+OSM044,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.88928,-55.27064,osm_no_verificado,OpenStreetMap,
+OSM045,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.89217,-55.21728,osm_no_verificado,OpenStreetMap,ver README
+OSM046,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.89403,-55.22194,osm_no_verificado,OpenStreetMap,ver README
+OSM047,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.89518,-54.79591,osm_no_verificado,OpenStreetMap,ver README
+OSM048,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.90237,-54.94844,osm_no_verificado,OpenStreetMap,
+OSM049,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,75,-34.90469,-55.03168,osm_no_verificado,OpenStreetMap,ver README
+OSM050,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.90807,-54.94759,osm_no_verificado,OpenStreetMap,
+OSM051,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.90807,-54.94647,osm_no_verificado,OpenStreetMap,
+OSM052,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.90972,-54.84158,osm_no_verificado,OpenStreetMap,ver README
+OSM053,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.91024,-54.87253,osm_no_verificado,OpenStreetMap,
+OSM054,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.91142,-54.94613,osm_no_verificado,OpenStreetMap,ver README
+OSM055,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.91166,-54.8728,osm_no_verificado,OpenStreetMap,
+OSM056,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.91396,-54.98424,osm_no_verificado,OpenStreetMap,ver README
+OSM057,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.91583,-54.9786,osm_no_verificado,OpenStreetMap,ver README
+OSM058,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.92482,-54.94148,osm_no_verificado,OpenStreetMap,ver README
+OSM059,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,75,-34.92884,-54.89197,osm_no_verificado,OpenStreetMap,ver README
+OSM060,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,75,-34.92919,-54.89239,osm_no_verificado,OpenStreetMap,ver README
+OSM061,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.93049,-54.93982,osm_no_verificado,OpenStreetMap,ver README
+OSM062,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.9413,-54.9462,osm_no_verificado,OpenStreetMap,ver README
+OSM063,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.94184,-54.94597,osm_no_verificado,OpenStreetMap,ver README
+OSM064,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.94752,-54.93669,osm_no_verificado,OpenStreetMap,ver README
+OSM065,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.94901,-54.92582,osm_no_verificado,OpenStreetMap,ver README
+OSM066,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.94906,-54.92608,osm_no_verificado,OpenStreetMap,ver README
+OSM067,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.95161,-54.93777,osm_no_verificado,OpenStreetMap,ver README
+OSM068,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.95382,-54.94022,osm_no_verificado,OpenStreetMap,ver README
+OSM069,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.95962,-54.94243,osm_no_verificado,OpenStreetMap,ver README
+OSM070,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.77393,-56.12919,osm_no_verificado,OpenStreetMap,ver README
+OSM071,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.77415,-56.12913,osm_no_verificado,OpenStreetMap,ver README
+OSM072,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.7763,-56.04444,osm_no_verificado,OpenStreetMap,ver README
+OSM073,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.8014,-56.08674,osm_no_verificado,OpenStreetMap,ver README
+OSM074,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.80202,-56.08717,osm_no_verificado,OpenStreetMap,ver README
+OSM075,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.84082,-56.19752,osm_no_verificado,OpenStreetMap,ver README
+OSM076,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.84118,-56.19693,osm_no_verificado,OpenStreetMap,ver README
+OSM077,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.86149,-56.14802,osm_no_verificado,OpenStreetMap,ver README
+OSM078,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.8635,-56.15204,osm_no_verificado,OpenStreetMap,ver README
+OSM079,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.86444,-56.15207,osm_no_verificado,OpenStreetMap,ver README
+OSM080,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,75,-34.87615,-56.04582,osm_no_verificado,OpenStreetMap,ver README
+OSM081,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,45,-34.88842,-56.16568,osm_no_verificado,OpenStreetMap,ver README
+OSM082,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,45,-34.88925,-56.16556,osm_no_verificado,OpenStreetMap,ver README
+OSM083,Radar OSM (Montevideo),OpenStreetMap (colaborativo),Montevideo,,,60,-34.92491,-56.16975,osm_no_verificado,OpenStreetMap,ver README
+OSM084,Radar OSM (Paysandú),OpenStreetMap (colaborativo),Paysandú,,,45,-31.87266,-57.86457,osm_no_verificado,OpenStreetMap,ver README
+OSM085,Radar OSM (Río Negro),OpenStreetMap (colaborativo),Río Negro,,,45,-33.1248,-58.30364,osm_no_verificado,OpenStreetMap,ver README
+OSM086,Radar OSM (Río Negro),OpenStreetMap (colaborativo),Río Negro,,,45,-33.127,-58.30089,osm_no_verificado,OpenStreetMap,ver README
+OSM087,Radar OSM (Río Negro),OpenStreetMap (colaborativo),Río Negro,,,45,-33.12789,-58.29967,osm_no_verificado,OpenStreetMap,ver README
+OSM088,Radar OSM (Río Negro),OpenStreetMap (colaborativo),Río Negro,,,45,-33.13136,-58.29545,osm_no_verificado,OpenStreetMap,ver README
+OSM089,Radar OSM (Río Negro),OpenStreetMap (colaborativo),Río Negro,,,45,-33.14051,-58.28789,osm_no_verificado,OpenStreetMap,ver README
