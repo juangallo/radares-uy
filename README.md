@@ -44,27 +44,19 @@ Cada registro incluye departamento, `lat`, `lon` y `limite` (km/h) cuando existe
 
 ## Usar con Grok en un Tesla
 
-No hay una forma documentada de importar radares al navegador del auto. El Tesla admite solo 100 recordatorios activos, por eso el prompt usa [`prioridad.csv`](prioridad.csv): 100 radares ordenados por prioridad (Montevideo, Interbalnearia, Rutas 8 y 9, Ruta 93 y Punta del Este). Se regenera con `python3 scripts/exportar_prioridad.py`; el criterio de prioridad es mío, no un dato medido. Este prompt es un intento con Grok y no está probado: puede que no pueda crear alertas por ubicación ni mostrar iconos en el mapa. Probalo estacionado, con un solo radar cercano primero, y comprobá en el mapa lo que diga (no confíes en un "listo"). No lo pruebes manejando.
+No hay una forma documentada de importar radares al navegador del auto. El Tesla admite solo 100 recordatorios activos, por eso el prompt usa [`prioridad.csv`](prioridad.csv): 100 radares ordenados por prioridad (Montevideo, Interbalnearia, Rutas 8 y 9, Ruta 93 y Punta del Este). Se regenera con `python3 scripts/exportar_prioridad.py`; el criterio de prioridad es mío, no un dato medido. Este prompt es un intento con Grok y no está probado: puede que no pueda crear recordatorios por ubicación. Probalo estacionado, con un solo radar cercano primero, y comprobá lo que diga en el auto (no confíes en un "listo"). No lo pruebes manejando.
 
 ```text
-Quiero que me avises por voz cuando me acerque a un radar de velocidad en Uruguay, 200 metros antes de pasar por él.
+Buscá en GitHub el archivo prioridad.csv del repositorio radares-uy del usuario juangallo. Tiene 100 radares ordenados por la columna orden, con nombre, lat, lon y limite_kmh.
 
-Datos: usá este CSV, una fila por radar (100 en total), con las columnas orden, nombre, lat, lon, limite_kmh y calidad:
-https://raw.githubusercontent.com/juangallo/radares-uy/main/prioridad.csv
+Creá un recordatorio por ubicación para cada radar:
+- Radio de 300 metros.
+- Sin fecha de fin.
+- Al pasar cerca, que diga solamente "acercándote a un radar" y, si limite_kmh tiene valor, el límite de velocidad. No digas el nombre.
 
-Lo que necesito:
-1. Alerta por ubicación a 200 m de cada radar. Si podés, que diga el límite de velocidad cuando exista.
-2. Un icono de radar o de faro en el mapa para cada punto. Si no se puede, decímelo.
-3. Cargá todos los radares del archivo, en el orden de la columna orden. Si hay un límite de cantidad, cargá primero los de orden más bajo.
+Hacelo de a 5 radares en el orden del archivo. Al terminar cada tanda, confirmame que completaste todos los anteriores y pedime permiso antes de seguir con los 5 siguientes.
 
-Antes de empezar, respondeme en pocas líneas:
-- Qué de esto podés hacer realmente en este auto y qué no.
-- Cómo lo vas a hacer (por ejemplo, cómo vas a detectar la cercanía sin que yo te pregunte).
-- Si encontrás un problema, proponé una alternativa en vez de decir que ya está hecho.
-
-Después de cargar, decime exactamente cuántos radares cargaste. Tienen que ser 100. Probemos primero con un radar cercano antes de seguir.
-
-Nota: la columna calidad indica qué tan confiable es cada punto. Los marcados osm_no_verificado (15) pueden no ser radares vigentes.
+Si algo no se puede hacer, decímelo en vez de decir que ya está.
 ```
 
 ## Aviso
