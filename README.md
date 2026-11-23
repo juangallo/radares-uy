@@ -2,8 +2,6 @@
 
 Listado de radares de fiscalización de velocidad de Uruguay con ubicación (latitud y longitud) y límite de velocidad cuando hay dato. Reúne fuentes oficiales y datos colaborativos.
 
-Página para consultar: https://juangallo.github.io/radares-uy/ (requiere activar GitHub Pages en el repositorio)
-
 Datos: [`radares-uruguay.json`](radares-uruguay.json)
 
 CSV plano (un radar por fila, solo los 278 con coordenadas): [`radares-uruguay.csv`](radares-uruguay.csv). Columna `calidad`: `oficial`, `oficial_via_tercero`, `oficial_interpolada`, `aproximada`, `estimada` u `osm_no_verificado`. Se regenera con `python3 scripts/exportar_csv.py`.
