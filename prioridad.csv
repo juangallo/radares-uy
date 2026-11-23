@@ -1,0 +1,101 @@
+orden,prioridad,id,nombre,organismo,departamento,ruta,km,limite_kmh,lat,lon,calidad
+1,1,MVD001,Rambla República del Perú y Basilio Pereyra de la Luz,Intendencia de Montevideo,Montevideo,,,60,-34.909668,-56.140442,oficial_via_tercero
+2,1,MVD002,Rambla Wilson y Avenida Doctor Juan A. Cachón,Intendencia de Montevideo,Montevideo,,,60,-34.917674,-56.169008,oficial_via_tercero
+3,1,MVD003,Rambla Rep. de México y Costa Rica,Intendencia de Montevideo,Montevideo,,,60,-34.890908,-56.054413,oficial_via_tercero
+4,1,MVD004,Rambla M. Gandhi y Solano García,Intendencia de Montevideo,Montevideo,,,60,-34.924922,-56.154894,oficial_via_tercero
+5,1,MVD005,Rambla O'Higgins y 18 de Diciembre,Intendencia de Montevideo,Montevideo,,,60,-34.896148,-56.104404,oficial_via_tercero
+6,1,MVD006,Rambla O'Higgins y Motivos de Proteo,Intendencia de Montevideo,Montevideo,,,60,-34.895101,-56.085125,oficial_via_tercero
+7,1,MVD007,Av. Italia y Caldas,Intendencia de Montevideo,Montevideo,,,60,-34.887159,-56.114457,oficial_via_tercero
+8,1,MVD008,Av. Italia y Mataojo,Intendencia de Montevideo,Montevideo,,,60,-34.88704,-56.121302,oficial_via_tercero
+9,1,MVD009,Av. 8 de Octubre y Larravide,Intendencia de Montevideo,Montevideo,,,45,-34.874085,-56.138865,oficial_via_tercero
+10,1,MVD010,Bv. José Batlle y Ordóñez y Av. 8 de Octubre,Intendencia de Montevideo,Montevideo,,,,-34.879295,-56.147888,oficial_via_tercero
+11,1,MVD011,Av. Rivera y Av. Luis P. Ponce,Intendencia de Montevideo,Montevideo,,,45,-34.902866,-56.161412,oficial_via_tercero
+12,1,MVD012,Av. Rivera y E. Arrascaeta,Intendencia de Montevideo,Montevideo,,,45,-34.89527,-56.120437,oficial_via_tercero
+13,1,MVD013,Bv. Artigas y Campisteguy,Intendencia de Montevideo,Montevideo,,,60,-34.869828,-56.168928,oficial_via_tercero
+14,1,MVD014,Bv. Artigas y Pedernal,Intendencia de Montevideo,Montevideo,,,60,-34.874859,-56.167055,oficial_via_tercero
+15,1,MVD015,Bv. Artigas y 21 de Setiembre,Intendencia de Montevideo,Montevideo,,,,-34.912971,-56.162957,oficial_via_tercero
+16,1,MVD016,Av. Gral. Flores y Salustio,Intendencia de Montevideo,Montevideo,,,60,-34.842447,-56.152339,oficial_via_tercero
+17,1,MVD017,Ferrer Serra y Juan Paullier,Intendencia de Montevideo,Montevideo,,,45,-34.895066,-56.169984,oficial_via_tercero
+18,1,MVD018,Av. Millán y Cisplatina,Intendencia de Montevideo,Montevideo,,,45,-34.866435,-56.192365,oficial_via_tercero
+19,1,MVD019,Matto Grosso y Av. Gral. Eugenio Garzón,Intendencia de Montevideo,Montevideo,,,60,-34.809909,-56.221247,oficial_via_tercero
+20,1,MVD020,Av. Carlos María Ramírez y Camambú,Intendencia de Montevideo,Montevideo,,,45,-34.869579,-56.240337,oficial_via_tercero
+21,1,MVD021,Av. César Mayo Gutiérrez y Cno. Carmelo Colman,Intendencia de Montevideo,Montevideo,,,60,-34.797475,-56.224505,oficial_via_tercero
+22,1,MVD022,Santa Lucía y Joaquín Pose,Intendencia de Montevideo,Montevideo,,,45,-34.845372,-56.237176,oficial_via_tercero
+23,1,MVD023,Av. Uruguay y Vázquez,Intendencia de Montevideo,Montevideo,,,45,-34.902364,-56.18477,oficial_via_tercero
+24,1,MVD024,Bv. Batlle y Ordóñez y Mateo Cabral,Intendencia de Montevideo,Montevideo,,,60,-34.88576,-56.138957,oficial_via_tercero
+25,1,MVD025,Bv. Batlle y Ordóñez e Ibirocahy,Intendencia de Montevideo,Montevideo,,,60,-34.85175,-56.183644,oficial_via_tercero
+26,1,MVD026,Av. Gral. Rondeau y Venezuela,Intendencia de Montevideo,Montevideo,,,45,-34.893242,-56.19273,oficial_via_tercero
+27,1,MVD027,Av. Agraciada y Valentín Gómez,Intendencia de Montevideo,Montevideo,,,45,-34.864362,-56.210008,oficial_via_tercero
+28,1,MVD028,Bv. Gral. Artigas y Av. Millán,Intendencia de Montevideo,Montevideo,,,60,-34.871445,-56.190214,oficial_via_tercero
+29,1,MVD029,Cno. Maldonado y Turín,Intendencia de Montevideo,Montevideo,,,45,-34.83774,-56.11795,oficial_via_tercero
+30,1,MVD030,Av. Dr. Luis Alberto de Herrera y Cádiz,Intendencia de Montevideo,Montevideo,,,45,-34.874866,-56.158451,oficial_via_tercero
+31,1,MVD031,Gral. Urquiza y Comandante Braga,Intendencia de Montevideo,Montevideo,,,45,-34.886468,-56.159082,oficial_via_tercero
+32,1,MVD032,Av. Cibils y Mirungá,Intendencia de Montevideo,Montevideo,,,45,-34.845665,-56.272774,oficial_via_tercero
+33,1,MVD033,Av. José Belloni y Camino Pettirossi,Intendencia de Montevideo,Montevideo,,,45,-34.80271,-56.136607,oficial_via_tercero
+34,1,MVD034,Av. Cibils y Verdún,Intendencia de Montevideo,Montevideo,,,45,-34.866517,-56.268168,oficial_via_tercero
+35,1,MVD035,Av. Gral. San Martín y Pablo Scremini,Intendencia de Montevideo,Montevideo,,,45,-34.832256,-56.167992,oficial_via_tercero
+36,1,MVD036,José Llupes y Vitoria,Intendencia de Montevideo,Montevideo,,,45,-34.8514,-56.228234,oficial_via_tercero
+37,1,MVD037,Av. Italia y Sepee,Intendencia de Montevideo,Montevideo,,,75,-34.88429,-56.09274,oficial_via_tercero
+38,1,MVD038,Veracierto e Ing. Agr. José A. Otamendi,Intendencia de Montevideo,Montevideo,,,45,-34.864274,-56.121983,oficial_via_tercero
+39,1,MVD039,Carmelo y Av. Burgues,Intendencia de Montevideo,Montevideo,,,45,-34.864376,-56.186766,oficial_via_tercero
+40,1,MVD040,Bv. Artigas y Canelones,Intendencia de Montevideo,Montevideo,,,45,-34.906831,-56.163629,oficial_via_tercero
+41,1,MVD041,Rambla y Río Negro,Intendencia de Montevideo,Montevideo,,,"60 (45 en el carril contiguo a la ciclovía, sentido este)",-34.912662,-56.192902,oficial_via_tercero
+42,1,MVD042,Rambla República de México y José Cúneo Perinetti,Intendencia de Montevideo,Montevideo,,,60,-34.898842,-56.064438,oficial_via_tercero
+43,1,MVD043,Juan Jacobo Rousseau y María Stagnero de Munar,Intendencia de Montevideo,Montevideo,,,45,-34.876065,-56.14628,oficial_via_tercero
+44,1,MVD044,Nueva Palmira y Democracia,Intendencia de Montevideo,Montevideo,,,45,-34.888885,-56.176951,oficial_via_tercero
+45,1,MVD045,Jujuy y Entre Ríos,Intendencia de Montevideo,Montevideo,,,45,-34.88236,-56.196271,oficial_via_tercero
+46,1,MVD046,Uruguayana y Enrique Turini,Intendencia de Montevideo,Montevideo,,,,-34.868575,-56.210436,oficial_via_tercero
+47,1,MVD047,Av. Luis Alberto de Herrera y Ayacucho,Intendencia de Montevideo,Montevideo,,,,-34.894016,-56.144316,oficial_via_tercero
+48,1,MVD048,Av. Millán y Av. Gral. Eugenio Garzón,Intendencia de Montevideo,Montevideo,,,,-34.83463,-56.221477,oficial_via_tercero
+49,1,MVD049,Caramurú y Hernani,Intendencia de Montevideo,Montevideo,,,45,-34.892674,-56.085765,oficial_via_tercero
+50,1,MVD050,Av. Joaquín Suárez y Av. Juan Carlos Blanco,Intendencia de Montevideo,Montevideo,,,,-34.863726,-56.19615,oficial_via_tercero
+51,2,MTOP001,"Accesos a Montevideo km 5,845 (Santín Carlos Rossi)",MTOP,Montevideo,Accesos a Montevideo,"5,845",75,-34.86413,-56.2527,oficial
+52,2,MTOP002,"Accesos a Montevideo km 5,100 (Pantanoso)",MTOP,Montevideo,Accesos a Montevideo,"5,100",90,-34.86699,-56.2462,oficial
+53,2,MTOP003,"Accesos a Montevideo km 2,210 / 2,220 (Capurro)",MTOP,Montevideo,Accesos a Montevideo,"2,210 / 2,220",90,-34.87027,-56.21911,oficial
+54,2,MTOP004,"Accesos a Montevideo km 3,650 / 3,750 (Refinería)",MTOP,Montevideo,Accesos a Montevideo,"3,650 / 3,750",90,-34.87199,-56.23326,oficial
+55,2,MTOP005,"Accesos a Montevideo km 5,600 (Pantanoso)",MTOP,Montevideo,Accesos a Montevideo,"5,600",75,-34.86451,-56.25017,oficial
+56,2,MTOP006,"Accesos a Montevideo km 1,530 / 1,570 (Juan Carlos Gómez)",MTOP,Montevideo,Accesos a Montevideo,"1,530 / 1,570",,-34.90251,-56.20487,oficial
+57,2,MTOP007,"Ruta 1 km 19,865 / 20,070 (Basilio Muñoz)",MTOP,Montevideo,Ruta 1,"19,865 / 20,070",,-34.8006,-56.34593,oficial
+58,2,MTOP029,"Ruta 5 km 13,322 / 13,625 (La Redención)",MTOP,Montevideo,Ruta 5,"13,322 / 13,625",60,-34.8008,-56.26408,oficial
+59,2,MTOP030,"Ruta 5 km 17,541 / 17,788 (Fauquet)",MTOP,Montevideo,Ruta 5,"17,541 / 17,788",60,-34.76732,-56.26625,oficial
+60,2,MTOP059,"Ruta 8 km 13,457 / 13,385 (Punta de Rieles, Barros Blancos)",MTOP,Montevideo,Ruta 8,"13,457 / 13,385",60,-34.8207,-56.0999,oficial
+61,2,MTOP060,"Ruta 8 km 23,479 (Punta de Rieles, Barros Blancos)",MTOP,Montevideo,Ruta 8,"23,479",60,-34.8222,-56.1005,oficial
+62,2,MTOP113,"Ruta 102 km 27,840 (Campeón del Siglo)",MTOP,Montevideo,Ruta 102,"27,840",,-34.7972,-56.0627,oficial
+63,2,MTOP114,"Ruta 102 km 31,618 / 31,516 (Camino Cruz del Sur)",MTOP,Montevideo,Ruta 102,"31,618 / 31,516",,-34.79248,-56.09788,oficial
+64,2,MTOP115,"Ruta 102 km 36,750 / 36,636 (Av. de las Instrucciones)",MTOP,Montevideo,Ruta 102,"36,750 / 36,636",,-34.79704,-56.15245,oficial
+65,2,MTOP116,"Ruta 102 km 45,900 (Camino Fauquet)",MTOP,Montevideo,Ruta 102,"45,900",,-34.78283,-56.24666,oficial
+66,3,MTOP118,"Ruta Interbalnearia km 22,079 / 21,826 (Almenara)",MTOP,Canelones,Ruta Interbalnearia,"22,079 / 21,826",75,-34.8263,-56.0005,oficial
+67,3,MTOP119,"Ruta Interbalnearia km 27,442 / 27,093 (Colinas de Solymar)",MTOP,Canelones,Ruta Interbalnearia,"27,442 / 27,093",75,-34.8031,-55.9538,oficial
+68,3,MTOP120,"Ruta Interbalnearia km 35,369 / 35,210 (Neptunia)",MTOP,Canelones,Ruta Interbalnearia,"35,369 / 35,210",75,-34.7806,-55.8738,oficial
+69,3,MTOP121,"Ruta Interbalnearia km 37,065 / 36,800 (Av. Nogueira y Colón)",MTOP,Canelones,Ruta Interbalnearia,"37,065 / 36,800",75,-34.7778,-55.8571,oficial
+70,3,MTOP122,"Ruta Interbalnearia km 40,435 / 40,091 (Marindia)",MTOP,Canelones,Ruta Interbalnearia,"40,435 / 40,091",75,-34.7718,-55.8221,oficial
+71,3,MTOP123,"Ruta Interbalnearia km 64,000 (San Luis)",MTOP,Canelones,Ruta Interbalnearia,"64,000",60,-34.7705,-55.5748,oficial
+72,3,MTOP124,"Ruta Interbalnearia km 63,000 (San Luis)",MTOP,Canelones,Ruta Interbalnearia,"63,000",60,-34.762,-55.5882,oficial
+73,3,INT007,"Ruta Interbalnearia km 47,200",Ministerio del Interior,Canelones,Ruta Interbalnearia,"47,200",75,-34.76294,-55.74581,oficial_interpolada
+74,3,INT008,Ruta Interbalnearia km 52,Ministerio del Interior,Canelones,Ruta Interbalnearia,52,,-34.74915,-55.69676,oficial_interpolada
+75,4,MTOP061,"Ruta 8 km 24,410 (Punta de Rieles, Barros Blancos)",MTOP,Canelones,Ruta 8,"24,410",60,-34.7666,-56.022,oficial
+76,4,MTOP062,"Ruta 8 km 25,025 (Punta de Rieles, Barros Blancos)",MTOP,Canelones,Ruta 8,"25,025",60,-34.7612,-56.014,oficial
+77,4,MTOP067,"Ruta 9 km 205,380 (Rocha)",MTOP,Rocha,Ruta 9,"205,380",,-34.50178,-54.33249,oficial
+78,4,MTOP068,"Ruta 9 km 264,038 (Castillos)",MTOP,Rocha,Ruta 9,"264,038",60,-34.2051,-53.8538,oficial
+79,4,MTOP069,"Ruta 9 km 338,106 (Chuy)",MTOP,Rocha,Ruta 9,"338,106",45,-33.6941,-53.4476,oficial
+80,4,MTOP070,"Ruta 9 km 209,409 (Rocha)",MTOP,Rocha,Ruta 9,"209,409",60,-34.47578,-54.30481,oficial
+81,4,INT005,"Ruta 9 km 88,500",Ministerio del Interior,Maldonado,Ruta 9,"88,500",,-34.75392,-55.38681,oficial_interpolada
+82,5,PRE006,Av. A la Laguna entre Centauro y Aldebarán (Punta del Este),Intendencia (prensa),Maldonado,,,45,-34.91095,-54.97918,aproximada
+83,6,MTOP105,"Ruta 93 km 109,603",MTOP,Maldonado,Ruta 93,"109,603",60,-34.8652,-55.1396,oficial
+84,6,MTOP106,"Ruta 93 km 109,900",MTOP,Maldonado,Ruta 93,"109,900",60,-34.8645,-55.13646,oficial
+85,6,MTOP107,"Ruta 93 km 2,552",MTOP,Maldonado,Ruta 93,"2,552",,-34.86747,-55.2409,oficial
+86,7,OSM069,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.95962,-54.94243,osm_no_verificado
+87,7,OSM068,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.95382,-54.94022,osm_no_verificado
+88,7,OSM067,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.95161,-54.93777,osm_no_verificado
+89,7,OSM064,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.94752,-54.93669,osm_no_verificado
+90,7,OSM063,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.94184,-54.94597,osm_no_verificado
+91,7,OSM066,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.94906,-54.92608,osm_no_verificado
+92,7,OSM061,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.93049,-54.93982,osm_no_verificado
+93,7,OSM058,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.92482,-54.94148,osm_no_verificado
+94,7,OSM054,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,45,-34.91142,-54.94613,osm_no_verificado
+95,7,OSM057,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.91583,-54.9786,osm_no_verificado
+96,7,OSM050,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,,-34.90807,-54.94759,osm_no_verificado
+97,7,OSM056,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.91396,-54.98424,osm_no_verificado
+98,8,OSM040,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.87775,-55.05699,osm_no_verificado
+99,8,OSM041,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,60,-34.88192,-55.04725,osm_no_verificado
+100,8,OSM049,Radar OSM (Maldonado),OpenStreetMap (colaborativo),Maldonado,,,75,-34.90469,-55.03168,osm_no_verificado
