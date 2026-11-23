@@ -42,13 +42,14 @@ Cada registro incluye departamento, `lat`, `lon` y `limite` (km/h) cuando existe
 
 ## Usar con Grok en un Tesla
 
-No hay una forma documentada de importar radares al navegador del auto. El Tesla admite solo 100 recordatorios activos, por eso el prompt usa [`prioridad.csv`](prioridad.csv): 100 radares ordenados por prioridad (Montevideo, Interbalnearia, Rutas 8 y 9, Ruta 93 y Punta del Este). Se regenera con `python3 scripts/exportar_prioridad.py`; el criterio de prioridad es mío, no un dato medido. Este prompt es un intento con Grok y no está probado: puede que no pueda crear recordatorios por ubicación. Probalo estacionado, con un solo radar cercano primero, y comprobá lo que diga en el auto (no confíes en un "listo"). No lo pruebes manejando.
+No hay una forma documentada de importar radares al navegador del auto. El Tesla admite solo 100 recordatorios activos, por eso el prompt usa [`prioridad.csv`](prioridad.csv): 100 radares ordenados por prioridad (Montevideo, Interbalnearia, Rutas 8 y 9, Ruta 93 y Punta del Este). Se regenera con `python3 scripts/exportar_prioridad.py`; el criterio de prioridad es mío, no un dato medido. Este prompt es un intento con Grok y no está probado: puede que no pueda crear recordatorios por ubicación. Probalo estacionado, con un solo radar cercano primero, y comprobá lo que diga en el auto (no confíes en un "listo"). Según fuentes de terceros (no confirmado por Tesla), el radio de estos recordatorios sería fijo, de unos 500 m, y necesitan conexión a internet; no distinguen el sentido de circulación. No lo pruebes manejando.
 
 ```text
 Buscá en GitHub el archivo prioridad.csv del repositorio radares-uy del usuario juangallo. Tiene 100 radares ordenados por la columna orden, con nombre, lat, lon y limite_kmh.
 
 Creá un recordatorio por ubicación para cada radar:
-- Radio de 300 metros.
+- Recurrente: que suene cada vez que me acerque, siempre, no una sola vez.
+- Radio de 300 metros. Si no podés usar ese radio, decime cuál usás.
 - Sin fecha de fin.
 - Al pasar cerca, que diga solamente "acercándote a un radar" y, si limite_kmh tiene valor, el límite de velocidad. No digas el nombre.
 
